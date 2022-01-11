@@ -1,0 +1,25 @@
+section.jireh .container-fluid {
+    padding-left: 0px !important;
+}
+section.jireh .container-fluid h2 {
+    font-weight: bold;
+    font-size: 64px;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding-top: 100px;
+    background-color: #181a1c;
+    text-transform: uppercase;
+    padding-bottom: 50px;
+}
+section.jireh .container-fluid .row .col-sm-12.col-md-12.col-lg-12 {
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+}
+section.jireh .container-fluid .row .col-sm-12.col-md-12.col-lg-12 picture {
+    text-align: center;
+}
+section.jireh .container-fluid .row .col-sm-12.col-md-12.col-lg-12 picture img {
+    width: 90%;
+}

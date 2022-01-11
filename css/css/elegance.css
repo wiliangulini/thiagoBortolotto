@@ -1,0 +1,53 @@
+section.elegance {
+    background-color: #181a1c;
+    padding-bottom: 25px;
+}
+section.elegance .container-fluid.title h2.h2 {
+    font-size: 64px;
+    color: #FFF !important;
+    text-align: center !important;
+    padding-top: 150px !important;
+    margin-bottom: 20px !important;
+}
+section.elegance .container-fluid .row.justify-content-center {
+    padding: 50px 0px;
+    background-color: black;
+    margin-bottom: 25px;
+}
+section.elegance .container-fluid .row.justify-content-center .col-sm-6.col-md-6.col-lg-6 {
+    color: #FFF !important;
+}
+section.elegance .container-fluid .row.justify-content-center .col-sm-6.col-md-6.col-lg-6 p {
+    font-size: 24px;
+}
+section.elegance .container-fluid .row.justify-content-center .col-sm-6.col-md-6.col-lg-6 h3 {
+    font-size: 34px;
+    font-weight: bold;
+}
+section.elegance .container .row .col-sm-12.col-md-12.col-lg-12 {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+section.elegance .container .row .col-sm-12.col-md-12.col-lg-12.dual picture.dual_one {
+    float: left;
+    width: 434px;
+    margin-right: 8px;    
+}
+section.elegance .container .row .col-sm-12.col-md-12.col-lg-12.dual picture.dual_two {
+    float: right;
+    width: 44% ;
+}
+section.elegance .container .row .col-sm-12.col-md-12.col-lg-12.dual picture img,
+section.elegance .container .row .col-sm-12.col-md-12.col-lg-12.dual picture.dual_one {
+    height: 100%;
+}
+section.elegance .container .row .col-sm-12.col-md-12.col-lg-12.last {
+    display: flex;
+}
+section.elegance .container .row .col-sm-12.col-md-12.col-lg-12.last picture {
+    margin-right: 8.5px;
+}
+section.elegance .container .row .col-sm-12.col-md-12.col-lg-12.last picture.last_three {
+    margin: 0;
+}

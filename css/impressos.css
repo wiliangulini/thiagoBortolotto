@@ -1,0 +1,60 @@
+section.impressos .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+section a.btn {
+    margin-left: 15%;
+    color: #FFF;
+}
+section.impressos .container .id {
+    color: #FFF;
+    width: 73%;
+    margin-top: 125px;
+}
+section.impressos .container .id h2 {
+    font-size: 42px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+section.impressos .container .id p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+section.impressos .container .row .col-sm-12.col-md-12.col-lg-12 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+section.impressos .container .row .col-sm-12.col-md-12.col-lg-12 .div_one picture img,
+section.impressos .container .row .col-sm-12.col-md-12.col-lg-12 .div_two picture img,
+section.impressos .container .row .col-sm-12.col-md-12.col-lg-12 .div_three picture img {
+    width: 273px;
+    height: 273px;
+    margin-right: 10px;
+    object-fit: cover !important;
+}
+section.impressos .container .row .col-sm-12.col-md-12.col-lg-12 .div_one .ID,
+section.impressos .container .row .col-sm-12.col-md-12.col-lg-12 .div_two .ID,
+section.impressos .container .row .col-sm-12.col-md-12.col-lg-12 .div_three .ID {
+    position: absolute;
+    top: 0;
+    background-color: #DDD;
+    color: white;
+    display: none;
+    opacity: 0.5;
+    width: 273px;
+    height: 273px;
+}
+section.impressos .container .row .col-sm-12.col-md-12.col-lg-12 .div_one .ID h4,
+section.impressos .container .row .col-sm-12.col-md-12.col-lg-12 .div_two .ID h4,
+section.impressos .container .row .col-sm-12.col-md-12.col-lg-12 .div_three .ID h4 {
+   text-align: center;
+   margin-top: 30px;
+   color: black !important;
+}
+section.impressos .container .row .col-sm-12.col-md-12.col-lg-12.last-social {
+    justify-content: flex-start;
+    padding-left: 12.8%;
+}

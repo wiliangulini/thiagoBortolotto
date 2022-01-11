@@ -1,0 +1,98 @@
+section.farmacia {
+    background-color:#181a1c;
+    padding-bottom: 25px;
+}
+section.farmacia .container h2 {
+    font-size: 64px;
+    color: #FFF;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    padding-top: 150px;
+}
+section.farmacia .container .row .col-sm-12.col-md-12.col-lg-12 picture img,
+section.farmacia .container .row.line .linha picture img,
+section.farmacia .container .row.line .linha1 picture img,
+section.farmacia .container .row.line .linha2 picture img,
+section.farmacia .container .row.line .linha3 picture img {
+    width: 100%;
+    height: 100%;
+}
+section.farmacia .container .row {
+    padding: 0px 55px;
+    padding-left: 83px;
+}
+section.farmacia .container .row .col-sm-12.col-md-12.col-lg-12 {
+    margin-bottom: 10px;
+}
+section.farmacia .container .row .col-sm-12.col-md-12.col-lg-12.second {
+    display: flex;
+    justify-content: space-between;
+}
+section.farmacia .container .row .col-sm-12.col-md-12.col-lg-12.second picture.sec {
+    width: 49.5%;
+}
+section.farmacia .container .row.line .linha {
+    display: flex;
+    width: 69%;
+    float: left;
+    margin-bottom: 10px;
+}
+section.farmacia .container .row.line .linha picture.fl {
+    margin-right: 10px;
+    width: 423px;  
+}
+section.farmacia .container .row.line .linha1 {
+    float: right;
+    width: 30%;
+}
+section.farmacia .container .row.line .linha2 {
+    width: 69%;
+    float: left;
+}
+section.farmacia .container .row.line {
+    display: inline-block;
+    padding: 0px 70px;
+    padding-left: 98px;
+    margin-bottom: 4px;
+}
+section.farmacia .container .row.line .linha picture img.caneca {
+    height: 100%;
+}
+section.farmacia .container .row.line .linha1 picture img.sacola {
+    height: 320px;
+    width: 290px;
+    margin-bottom: 10px;
+}
+section.farmacia .container .row.line .linha1 picture img.caixas {
+    height: 333px;
+}
+section.farmacia .container .row.line .linha2 picture img {
+    height: 415px;
+}
+section.farmacia .container .line2 {
+    display: inline-block;
+    padding: 0px 84px;
+}
+section.farmacia .container .line2 .line_one {
+    width: 40%;
+    float: left;
+}
+section.farmacia .container .line2 .line_one picture img {
+    width: 376px;
+    height: 376px;
+    margin-bottom: 10px;
+}
+section.farmacia .container .line2 .line_one picture img.antes-depois {
+    width: 100%;
+    height: 210px;
+}
+section.farmacia .container .line2 .line_two {
+    width: 60%;
+    float: right;
+}
+section.farmacia .container .line2 .line_two picture img {
+    width: 596px;
+    height: 596px;
+    padding-left: 10px;
+}

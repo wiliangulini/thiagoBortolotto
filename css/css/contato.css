@@ -1,0 +1,53 @@
+section.contato .container .row {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px 0px;
+}
+section.contato .container .row .col-sm-8.col-md-8.col-lg-9 {
+    margin-bottom: 50px;
+}
+section.contato .container .row .col-sm-8.col-md-8.col-lg-9 h3 {
+    font-size: 42px;
+    font-weight: bold;
+    text-align: center;
+}
+section.contato .container .row .col-sm-8.col-md-8.col-lg-9 p {
+    text-align: center;
+}
+section.contato .container .row .col-sm-8.col-md-8.col-lg-9 h3 strong {
+    color: #4EBABC;
+}
+.container .row .col-sm-8.col-md-8.col-lg-8,
+.container .row .col-sm-8.col-md-8.col-lg-8 form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.container .row .col-sm-8.col-md-8.col-lg-8 form,
+.container .row .col-sm-8.col-md-8.col-lg-8 form input,
+.container .row .col-sm-8.col-md-8.col-lg-8 form textarea {
+    width: 70%;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+    outline: none;
+}
+.container .row .col-sm-8.col-md-8.col-lg-8 form {
+    padding: 35px 0px;
+}
+.container .row .col-sm-8.col-md-8.col-lg-8 form input {
+    padding: 5px 0px 5px 10px;
+}
+.container .row .col-sm-8.col-md-8.col-lg-8 form input[type="submit"] {
+    width: 50%;
+    background-color: black;
+    border: 0;
+}
+.container .row .col-sm-8.col-md-8.col-lg-8 form input[type="submit"]:hover {
+    border: 2px solid black;
+    color: black;
+    background-color: white;
+    transition: all .5s linear;
+}

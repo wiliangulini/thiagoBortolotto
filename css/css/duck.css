@@ -1,0 +1,32 @@
+section.duck {
+    background-color: #181a1c;
+    padding-bottom: 25px;
+}
+section.duck .container .row h2 {
+    font-weight: bold;
+    font-size: 64px;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding-top: 100px;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+}
+section.duck .container .row .col-sm-12.col-md-12.col-lg-12 {
+    padding: 0px;
+    margin: 10px 0px;
+    text-align: center;
+}
+section.duck .container .row .col-sm-12.col-md-12.col-lg-12.second {
+    display: flex;
+    justify-content: center;
+}
+
+section.duck .container .row .col-sm-12.col-md-12.col-lg-12.second picture.right,
+section.duck .container .row .col-sm-12.col-md-12.col-lg-12.second picture.two.e,
+section.duck .container .row .col-sm-12.col-md-12.col-lg-12.second picture.one.e {
+    margin-right: 6px;   
+}
+section.duck .container .row .col-sm-12.col-md-12.col-lg-12 .col-sm-12.col-md-12.col-lg-12 picture img.capa {
+    width: 981px;
+}

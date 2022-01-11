@@ -1,0 +1,20 @@
+[02-Oct-2020 20:42:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home3/donjua00/public_html/thiago/contato.php:6
+Stack trace:
+#0 /home3/donjua00/public_html/thiago/contato.php(39): email('wil.gulini@hotm...', 'Jasper', 'elememo@hotmail...', 'ola jasper<br> ...')
+#1 {main}
+  thrown in /home3/donjua00/public_html/thiago/contato.php on line 6
+[02-Oct-2020 20:43:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home3/donjua00/public_html/thiago/contato.php:10
+Stack trace:
+#0 /home3/donjua00/public_html/thiago/contato.php(40): email('wil.gulini@hotm...', 'Jasper', 'elememo@hotmail...', 'ola jasper<br> ...')
+#1 {main}
+  thrown in /home3/donjua00/public_html/thiago/contato.php on line 10
+[02-Oct-2020 20:43:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home3/donjua00/public_html/thiago/contato.php:10
+Stack trace:
+#0 /home3/donjua00/public_html/thiago/contato.php(40): email('wil.gulini@hotm...', 'Jasper', 'jasper@hotmail....', 'aaaaaaaaaaaaaaa...')
+#1 {main}
+  thrown in /home3/donjua00/public_html/thiago/contato.php on line 10
+[02-Oct-2020 20:46:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home3/donjua00/public_html/thiago/contato.php:10
+Stack trace:
+#0 /home3/donjua00/public_html/thiago/contato.php(41): email('wil.gulini@hotm...', 'Jasper', 'jasper@hotmail....', 'ola mundo<br> <...')
+#1 {main}
+  thrown in /home3/donjua00/public_html/thiago/contato.php on line 10

@@ -1,0 +1,137 @@
+section.black .container .row h2 {
+    font-size: 64px;
+    text-align: center;
+    color: #FFF;
+    width: 100%;
+    font-weight: bold;
+    padding-top: 100px;
+}
+/*section.black .container .row picture img,
+section.black .container .l picture img  {
+    width: 100%;
+    height: 100%;
+}*/
+section.black .container .row .col-sm-12.col-md-12.col-lg-12.sorrir {
+    justify-content: center;
+}
+section.black .container .row .col-sm-12.col-md-12.col-lg-12.sorrir picture {
+    width: 484px;
+    margin-right: 10px;
+}
+section.black .container .row .col-sm-12.col-md-12.col-lg-12.sorrir picture.ml {
+    margin-left: 10px;
+}
+section.black .container .l {
+    height: 762px;
+}
+section.black .container .l .linha {
+    display: flex;
+    justify-content: flex-end;
+    height: 205px;
+    width: 55.5%;
+    float: left;
+}
+section.black .container .l .linha picture {
+    width: 273px;
+    height: 205px;
+    margin-left: 5px;
+}
+section.black .container .l .linha picture img.ex {
+    width: 100%;
+    height: 100%;
+}
+section.black .container .l .linha1 {
+    width: 43.8%;
+    float: right;
+}
+section.black .container .l .linha2 {
+    width: 55.5%;
+    float: left;
+    margin-top: 5px;
+    height: 72.3%;
+    display: flex;
+    justify-content: flex-end;
+}
+section.black .container .l .linha2 picture.l2 {
+    display: flex;
+    justify-content: flex-end;
+}
+section.black .container .l .linha2 picture.l2 img {
+    height: 100%;
+}
+section.black .container .l .linha3 {
+    width: 43.8%;
+    float: right;
+    margin-top: 5px;
+}
+section.black .container .row .col-sm-12.col-md-12.col-lg-12.men {
+    margin: 10px 0px;
+    width: 100%;
+}
+section.black .container .row.face {
+    max-width: 100%;
+}
+section.black .container .row .col-sm-12.col-md-12.col-lg-12.men picture {
+    margin-left: 5.8%;
+}
+section.black .container .row .col-sm-12.col-md-12.col-lg-12.men picture,
+section.black .container .row .col-sm-12.col-md-12.col-lg-12.men picture img {
+    width: 96.5%;
+}
+section.black .container .row .col-sm-12.col-md-12.col-lg-12.four {
+    margin-left: 1.5%;
+}
+section.black .container .row .col-sm-12.col-md-12.col-lg-12.four picture img {
+    width: 239px;
+}
+section.black .container .row .col-sm-12.col-md-12.col-lg-12.four picture.one,
+section.black .container .row .col-sm-12.col-md-12.col-lg-12.four picture.two,
+section.black .container .row .col-sm-12.col-md-12.col-lg-12.four picture.three {
+    margin-right: 7px;
+}
+
+
+/* work css */
+
+section .container-fluid.work {
+    background-color: black;
+    margin-top: 10px;
+    padding: 0px !important;
+}
+section .container-fluid.work .row {
+    justify-content: center !important;
+    padding: 65px 0px !important;
+    width: 100% !important;
+}
+section .container-fluid.work .row .col-sm-6.col-md-6 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+section .container-fluid.work .row .col-sm-6.col-md-6 a.btn {
+    color: black;
+    background-color: #FFF;
+    width: 30%;
+    border-radius: 8px;
+    padding: 8px 0px;
+    border: 2px solid #FFF;
+}
+section .container-fluid.work .row .col-sm-6.col-md-6 a.btn:hover {
+    background-color: black;
+    color: #FFF;
+    transition: all .5s linear;
+}
+section .container-fluid.work .row .col-sm-6.col-md-6 .work {
+    text-align: center;
+    margin-bottom: 25px;
+}
+section .container-fluid.work .row .col-sm-6.col-md-6 .work p {
+    color: #FFF;
+    font-size: 27px;
+    margin: 0;
+    font-weight: bold;
+}
+section .container-fluid.work .row .col-sm-6.col-md-6 .work p strong {
+    color: #4EBABC;
+}    

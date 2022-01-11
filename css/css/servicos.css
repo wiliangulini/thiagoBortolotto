@@ -1,0 +1,101 @@
+body div.background {
+    background-image: url("../img/cafe.jpg") !important;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size:cover;
+    background-position: top;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "roboto-bold","roboto","sans-serif" !important;
+}
+header .container-fluid .row {
+    justify-content: space-around;
+    padding: 10px 0px;
+}
+header .container-fluid .row .col-sm-10.col-md-8.col-lg-6 {
+    display: flex;
+}
+header .container-fluid .row .col-sm-10.col-md-8.col-lg-6 ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+header .container-fluid .row .col-sm-10.col-md-8.col-lg-6 ul li a {
+    color: white;
+    padding: 15px 30px;
+}
+header .container-fluid .row .col-sm-10.col-md-8.col-lg-6 ul li a:hover {
+    text-decoration: none;
+    transition: all .5s linear;
+    background-color: #FFF;
+    border-radius: 10px;
+    color: black;
+}
+body section .container .row .col-sm-12.col-md-12.col-lg-12.texto {
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+body section .container .row .col-sm-12.col-md-12.col-lg-12.img {
+    margin-bottom: 100px !important;
+    display: flex;
+    justify-content: center;
+}
+
+section.servicos {
+    padding-bottom: 100px;
+}
+section.servicos .container .row h2.h2 {
+    margin: 40px 0px 30px 0px;
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+body .background section.servicos .container .row .col-sm-12.col-md-12.col-lg-12.texto h2.h2 strong {
+    color: #4EBABC;
+}
+body .background section.servicos .container .row .col-sm-12.col-md-12.col-lg-12.texto p {
+    text-align: center;
+    margin-bottom: 35px;
+}
+body .background section.servicos .container .row .col-sm-12.col-md-12.col-lg-12.texto .col-sm-12.col-md-12.col-lg-12 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+section.servicos .container .row .col-sm-12.col-md-12.col-lg-12 .div_one picture img,
+section.servicos .container .row .col-sm-12.col-md-12.col-lg-12 .div_two picture img,
+section.servicos .container .row .col-sm-12.col-md-12.col-lg-12 .div_three picture img {
+    width: 300px;
+    height: 300px;
+    margin-right: 10px;
+}
+section.servicos .container .row .col-sm-12.col-md-12.col-lg-12 .div_one .ID,
+section.servicos .container .row .col-sm-12.col-md-12.col-lg-12 .div_two .ID,
+section.servicos .container .row .col-sm-12.col-md-12.col-lg-12 .div_three .ID {
+    position: absolute;
+    top: 0;
+    background-color: #DDD;
+    color: white;
+    display: none;
+    opacity: 0.5;
+    width: 300px;
+    height: 300px;
+}
+section.servicos .container .row .col-sm-12.col-md-12.col-lg-12 .div_one .ID h4,
+section.servicos .container .row .col-sm-12.col-md-12.col-lg-12 .div_two .ID h4,
+section.servicos .container .row .col-sm-12.col-md-12.col-lg-12 .div_three .ID h4 {
+   text-align: center;
+   margin-top: 30px;
+   color: black !important;
+}

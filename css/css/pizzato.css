@@ -1,0 +1,47 @@
+section.pizzato {
+    background-color: #181a1c;
+    padding-bottom: 25px;
+}
+section.pizzato h2 {
+    color: #FFF;
+    text-align: center;
+    font-size: 64px;
+    font-weight: bold;
+    padding-top: 100px;
+}
+section.pizzato .container-fluid {
+    background-color: black;
+    color: #FFF;
+    padding-left: 15%;
+}
+section.pizzato .container-fluid .row {
+    width: 80%;
+    padding: 4% 15% 4% 10%;
+}
+section.pizzato .container-fluid .row h3 {
+    font-size: 34px;
+    font-weight: bold;
+}
+section.pizzato .container-fluid .row p {
+    font-size: 24px;
+}
+section.pizzato .container .row .col-sm-12.col-md-12.col-lg-12 {
+    margin: 4px 0px;
+    display: flex;
+    justify-content: center;
+}
+section.pizzato .container .row .col-sm-12.col-md-12.col-lg-12.first {
+    margin-top: 25px;
+}
+section.pizzato .container .row .col-sm-12.col-md-12.col-lg-12.dual picture.right {
+    margin-right: 5px;
+}
+section.pizzato .container .row .col-sm-12.col-md-12.col-lg-12.dual {
+    display: flex;
+}
+section.pizzato .container .row .col-sm-12.col-md-12.col-lg-12.dual picture.right img {
+    width: 228px;
+}
+section.pizzato .container .row .col-sm-12.col-md-12.col-lg-12.dual picture.eight {
+    width: 61.5%;
+}
